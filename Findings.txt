@@ -1,0 +1,11 @@
+NETFLIX DATA ANALYSIS – KEY FINDINGS
+
+1. Movies significantly outnumber TV Shows in the Netflix library.
+
+2. Netflix content additions increased rapidly after 2016, indicating major platform growth.
+
+3. International Movies and Dramas are the most common content categories.
+
+4. TV-MA is the dominant rating category, suggesting a strong focus on mature audiences.
+
+5. The United States contributes the largest share of content in the dataset.
