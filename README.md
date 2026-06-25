@@ -1,46 +1,43 @@
-# Netflix Data Analysis
+# Netflix Content Analysis
 
 ## Project Overview
+This project analyzes the Netflix Titles dataset using Python, Pandas, and Matplotlib.
 
-This project analyzes Netflix content using Python, Pandas, and Matplotlib.
-
-The objective is to understand content distribution, growth trends, genres, ratings, and country-wise contributions.
-
-## Dataset
-
-Netflix Titles Dataset
+## Objectives
+- Understand Netflix content distribution
+- Compare Movies and TV Shows
+- Analyze content growth over time
+- Identify popular genres
+- Analyze audience ratings
+- Study country-wise content distribution
 
 ## Tools Used
-
 - Python
 - Pandas
 - Matplotlib
 - VS Code
 
 ## Analysis Performed
-
-- Dataset Loading
-- Exploratory Data Analysis (EDA)
+- Data Cleaning
 - Missing Values Check
 - Duplicate Check
 - Movies vs TV Shows Analysis
-- Year-wise Content Growth Analysis
+- Year-wise Content Growth
 - Genre Analysis
 - Rating Analysis
 - Country Analysis
 
 ## Key Findings
+- Movies outnumber TV Shows on Netflix.
+- Content additions increased significantly after 2016.
+- International Movies and Dramas are among the most common genres.
+- TV-MA is the most frequent rating category.
+- The United States contributes the largest share of Netflix content.
 
-1. Movies significantly outnumber TV Shows.
-2. Netflix content additions increased rapidly after 2016.
-3. International Movies are among the most common genres.
-4. TV-MA is the dominant rating category.
-5. The United States contributes the largest share of content.
-
-## Skills Learned
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Pandas
-- Matplotlib
+## Project Structure
+Netflix_Data_Analysis/
+├── Charts/
+├── Data/
+├── Src/
+├── Findings.txt
+└── README.md
